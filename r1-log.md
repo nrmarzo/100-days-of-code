@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [April 21, 2018].
 
 ## Log
 
-### R1D1 
+### R1D1 - April 21, 2018
 Started [freecodecamp.org](https://www.freecodecamp.org/) while thinking of a web development project to work on. 
 
 ### R1D2
