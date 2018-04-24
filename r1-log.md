@@ -9,3 +9,8 @@ Started [freecodecamp.org](https://www.freecodecamp.org/) while thinking of a we
 
 ### R1D2 - April 22, 2018
 Kept going with FCC. Leaving bootstrap for tomorrow. Also started using RescueTime to keep track of productive time.
+
+### R1D3 - April 23, 2018
+Still on FCC doing Bootstrap. Not as productive as planned. Will work harder tomorrow. 
+
+### R1D4 - April 24, 2018
