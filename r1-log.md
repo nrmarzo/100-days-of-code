@@ -14,3 +14,6 @@ Kept going with FCC. Leaving bootstrap for tomorrow. Also started using RescueTi
 Still on FCC doing Bootstrap. Not as productive as planned. Will work harder tomorrow. 
 
 ### R1D4 - April 24, 2018
+Learned some Bootstrap and some jQuery on FCC. Also signed up for codepen. 
+
+### R1D5 - April 25, 2018
