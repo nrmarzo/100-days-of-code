@@ -18,6 +18,7 @@ Learned some Bootstrap and some jQuery on FCC. Also signed up for codepen.
 
 ### R1D5 - April 25, 2018
 Finished first FCC project - Tribute Page. 
+
 Link: https://codepen.io/nrmarzo/full/MGjYrp/
 
 ### R1D6 - April 26, 2018
