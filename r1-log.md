@@ -22,3 +22,9 @@ Finished first FCC project - Tribute Page.
 Link: https://codepen.io/nrmarzo/full/MGjYrp/
 
 ### R1D6 - April 26, 2018
+Did not code as much. Set up coding environment and github repos for personal portfolio. Read and watched more tutorials about bootstrap. Also transferred Tribute Page from codepen to Github Pages. 
+
+Link: https://nrmarzo.github.io/tribute-page/
+
+### R1D7 - April 27, 2018
+
