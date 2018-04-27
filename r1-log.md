@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - nrmarzo
 
-The log of my #100DaysOfCode challenge. Started on [April 21, 2018].
+The log of my #100DaysOfCode challenge. Started on [April 21, 2018]. Expected end date: [July 30, 2018]. 
 
 ## Log
 
