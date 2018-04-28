@@ -27,4 +27,9 @@ Did not code as much. Set up coding environment and github repos for personal po
 Link: https://nrmarzo.github.io/tribute-page/
 
 ### R1D7 - April 27, 2018
+Kept working on personal portfolio page. 
+
+Link: https://nrmarzo.github.io/
+
+### R1D8 - April 28, 2018
 
