@@ -32,4 +32,5 @@ Kept working on personal portfolio page.
 Link: https://nrmarzo.github.io/
 
 ### R1D8 - April 28, 2018
+Still working on personal portfolio. Added some navbar. Got the design planned out though.
 
