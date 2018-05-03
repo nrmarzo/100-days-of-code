@@ -35,6 +35,6 @@ Link: https://nrmarzo.github.io/
 Still working on personal portfolio. Added some navbar. Got the design planned out though.
 
 ### R1D9-R1D12 - April 28 to May 2, 2018
-Had some trouble aligning items on personal portfolio. Been stuck for a few days but learned about flexbox. Now incorporated flexbox on project. Hoping to finish this project by tomorrow. 
+Had some trouble aligning items on personal portfolio. Been stuck for a few days but learned about flexbox. Now incorporated flexbox on project. Goal is to finish this project by tomorrow. 
 
 Link: https://nrmarzo.github.io/
