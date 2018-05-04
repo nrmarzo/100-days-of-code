@@ -38,3 +38,8 @@ Still working on personal portfolio. Added some navbar. Got the design planned o
 Had some trouble aligning items on personal portfolio. Been stuck for a few days but learned about flexbox. Now incorporated flexbox on project. Goal is to finish this project by tomorrow. 
 
 Link: https://nrmarzo.github.io/
+
+### R1D13 - May 3, 2018
+Finally finished personal portfolio website. It's not quite as responsive as I want it to be to support mobile browsers but I'm choosing to move on to the next project for now. I will get back to it again after finishing some more projects, which will probably make things a lot easier. 
+
+Link: https://nrmarzo.github.io/
