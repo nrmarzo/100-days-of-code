@@ -43,3 +43,6 @@ Link: https://nrmarzo.github.io/
 Finally finished personal portfolio website. It's not quite as responsive as I want it to be to support mobile browsers but I'm choosing to move on to the next project for now. I will get back to it again after finishing some more projects, which will probably make things a lot easier. 
 
 Link: https://nrmarzo.github.io/
+
+### R1D14-15 - May 4-5, 2018
+Started JavaScript on FCC. 
