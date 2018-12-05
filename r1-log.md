@@ -5,6 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [December 3, 2018]. Expected 
 ## Log
 
 ### R1D1 - Dec 3, 2018
-R1D1: I left the habit and now restarting once again. Trial #2. Been re-working my personal website and following a course on Udemy. Here's to starting over again. 
+I left the habit and now restarting once again. Trial #2. Been re-working my personal website and following a course on Udemy. Here's to starting over again. 
 
 Link: https://nrmarzo.github.io/ 
+
+### R1D2 - Dec 4, 2018
+Worked a little bit on Applied Visual Design on FCC.
