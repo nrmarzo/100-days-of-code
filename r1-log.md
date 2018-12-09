@@ -17,3 +17,8 @@ Continued working on Applied Visual CSS on FCC and also started JavaScript secti
 
 ### R1D4 - Dec 6, 2018
 Continued JavaScript basics on Udemy. Control Flow, Functions, Arrays. Did some exercises along the way.
+
+### R1D5-6 - Dec 7-8, 2018
+Learned JS Objects and worked on portfolio page of my personal website. Need to fix it so content doesn't go under the navbar when scrolling down. 
+
+Link: https://nrmarzo.github.io/ 
