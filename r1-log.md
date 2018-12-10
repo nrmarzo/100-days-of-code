@@ -22,3 +22,6 @@ Continued JavaScript basics on Udemy. Control Flow, Functions, Arrays. Did some 
 Learned JS Objects and worked on portfolio page of my personal website. Need to fix it so content doesn't go under the navbar when scrolling down. 
 
 Link: https://nrmarzo.github.io/ 
+
+### R1D7 - Dec 9, 2018
+Fixed the scrolling on my portfolio page by making the navbars opaque. I might encounter a better solution as I progress on my learning. Also, started learning about DOM Manipulation.
