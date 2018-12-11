@@ -25,3 +25,6 @@ Link: https://nrmarzo.github.io/
 
 ### R1D7 - Dec 9, 2018
 Fixed the scrolling on my portfolio page by making the navbars opaque. I might encounter a better solution as I progress on my learning. Also, started learning about DOM Manipulation.
+
+### R1D8 - Dec 10, 2018
+Continued learning about DOM Manipulation (Events specifically). 
