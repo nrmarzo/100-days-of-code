@@ -28,3 +28,6 @@ Fixed the scrolling on my portfolio page by making the navbars opaque. I might e
 
 ### R1D8 - Dec 10, 2018
 Continued learning about DOM Manipulation (Events specifically). 
+
+### R1D9 - Dec 11, 2018
+Built a Color Guesser mini-app by coding along with Colt's lecture. I coded along but I'm completely satisfied that I understood every little thing about it. Stressful week ahead with finals coming up but still have to do at least 1hr of code per day.
