@@ -31,3 +31,6 @@ Continued learning about DOM Manipulation (Events specifically).
 
 ### R1D9 - Dec 11, 2018
 Built a Color Guesser mini-app by coding along with Colt's lecture. I coded along but I'm completely satisfied that I understood every little thing about it. Stressful week ahead with finals coming up but still have to do at least 1hr of code per day.
+
+### R1D10 - Dec 16, 2018
+Finals week kind of wrecked me and I've been reading and going through some of the course but there wasn't significant progress enough to document it. Anyways, started learning jQuery today. The goal is to finish going through the jQuery section and start the Todo list project tomorrow.
