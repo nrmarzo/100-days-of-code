@@ -34,3 +34,11 @@ Built a Color Guesser mini-app by coding along with Colt's lecture. I coded alon
 
 ### R1D10 - Dec 16, 2018
 Finals week kind of wrecked me and I've been reading and going through some of the course but there wasn't significant progress enough to document it. Anyways, started learning jQuery today. The goal is to finish going through the jQuery section and start the Todo list project tomorrow.
+
+### R1D11 - Dec 17, 2018
+Crushed my goals today!
+Finished jQuery section of the course. ✔️
+Did the Todo List App (coded the functions by myself, then followed the design/layout from Colt). ✔️
+Did some planning for the layout of my personal project. ✔️
+
+
