@@ -41,4 +41,5 @@ Finished jQuery section of the course. ✔️
 Did the Todo List App (coded the functions by myself, then followed the design/layout from Colt). ✔️
 Did some planning for the layout of my personal project. ✔️
 
-
+### R1D12 - Dec 18, 2018
+Not very productive today. I was out the entire day but managed to start my project. Ran into a little trouble on how to center the navbar-brand but found a way.
