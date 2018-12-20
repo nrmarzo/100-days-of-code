@@ -45,4 +45,4 @@ Did some planning for the layout of my personal project. ✔️
 Not very productive today. I was out the entire day but managed to start my project. Ran into a little trouble on how to center the navbar-brand but found a way.
 
 ### R1D13 - Dec 19, 2018
-Worked on my project's home page. I still take a lot of time figuring out how to make my desired layout work, which means I need a lot more practice. I'm pretty excited on how it's coming along though. 
+Worked on my project's home page. I still take a lot of time figuring out how to make my desired layout work, which means I need a lot more practice. I'm pretty excited on how it's coming along though. I've decided to dedicate some time for this project everyday while still going through some of the lectures. 
