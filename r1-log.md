@@ -49,3 +49,6 @@ Worked on my project's home page. I still take a lot of time figuring out how to
 
 ### R1D14 - Dec 20,2018
 Kept working on my project's home page. Also  watched some css layout tutorials.
+
+### R1D15 - Dec 22, 2018
+Almost done with my personal project's home page. Did some readings about React-Native for a project with some of my school friends. I better learn JavaScript some more.
