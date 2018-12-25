@@ -52,3 +52,6 @@ Kept working on my project's home page. Also  watched some css layout tutorials.
 
 ### R1D15 - Dec 22, 2018
 Almost done with my personal project's home page. Did some readings about React-Native for a project with some of my school friends. I better learn JavaScript some more.
+
+### R1D16 - Dec 24, 2018
+Set up environment on vagrant for web/mobile app group project while documenting the setup process. Also trying to setup React Native environment but ran out of disk space for Android Studio on the VM. Will try to figure out tomorrow. MERRY CHRISTMAS EVE! 
