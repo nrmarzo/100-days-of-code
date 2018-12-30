@@ -55,3 +55,14 @@ Almost done with my personal project's home page. Did some readings about React-
 
 ### R1D16 - Dec 24, 2018
 Set up environment on vagrant for web/mobile app group project while documenting the setup process. Also trying to setup React Native environment but ran out of disk space for Android Studio on the VM. Will try to figure out tomorrow. MERRY CHRISTMAS EVE! 
+
+### R1D17 - Dec 25, 2018
+Still struggling on increasing disk size of my VM. I also realized my dual booted Ubuntu is also running low on disk space. Need to get this sorted before I resume my project. 
+
+### R1D18-20 - Dec 26-28, 2018
+Had to do a fresh install of Ubuntu and I chose to totally ditch Windows (I had it dualbooted). Got busy setting up everything again so haven't had much done related to actual projects the last few days.
+
+### R1D21 - Dec 29, 2018
+I thought I finished setting up my react-native environment but when I tried to do "react-native run-android", the emulator from android studio isn't working. It's so frustrating because I have to do everything on a VM. (The reason I have to do it in VM is because my group is using vagrant so that we all have the same environment.) Now, I'll have to figure out how to run a Virtual Device on a VM (it says I dont have VT-X/SVM) or how to access a phone connected on a VM.
+
+
